@@ -4,7 +4,7 @@
 >
 > 🎟 **优惠码 `PCOIC`**：Windows / Microsoft 365 专享 **9 折**，比 PCALL 更划算
 >
-> 最后更新：2026-10-08
+> 最后更新：2026-10-11
 
 在[数码荔枝](https://lizhi.shop/?cid=getxya4c&utm_medium=8r26xcug)买正版软件，结算时填写优惠码直接立减。这个仓库收录的是我们自己网站 **[lizhi.pcoic.com](https://lizhi.pcoic.com)（数码荔枝优惠码站）** 逐款验证过的软件——每一款都有完整版评测、真实截图和购买激活教程。
 
@@ -19,6 +19,7 @@
 ## 目录
 
 - [DisplayBuddy](#displaybuddy)
+- [Gety](#gety)
 - [Typora](#typora)
 - [IDM](#idm)
 - [UPDF](#updf)
@@ -34,6 +35,16 @@ Mac / Windows 双平台的外接显示器控制软件，用 DDC 协议直接控�
 
 - 💰 数码荔枝价 ¥59，用码 `PCALL` 后 **¥56.05**（2026-09-30 验证）
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/displaybuddy-discount-guide.html)
+
+---
+
+### Gety
+
+本地 AI 文件搜索引擎：把电脑里的文档、PDF、表格、截图全部索引起来，支持全文搜索、语义搜索和 OCR，想不起文件名时用一句话描述要找的内容，它按含义帮你定位。索引与搜索 100% 在本地运行，文件不上传云端；还开放 MCP 接口，Claude Code、Cursor 这类 AI 工具可直接检索你的本地文件。一次买断，支持 3 台设备。
+
+- 💰 永久 Pro 版数码荔枝价 ¥899，用码 `PCALL` 后 **¥854.05**（2026-10-11 验证），比官网 $169（约 ¥1217）便宜约 ¥363
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/gety-discount-guide.html)
 
 ---
 
