@@ -4,7 +4,7 @@
 >
 > 🎟 **优惠码 `PCOIC`**：Windows / Microsoft 365 专享 **9 折**，比 PCALL 更划算
 >
-> 最后更新：2026-10-11
+> 最后更新：2026-10-12
 
 在[数码荔枝](https://lizhi.shop/?cid=getxya4c&utm_medium=8r26xcug)买正版软件，结算时填写优惠码直接立减。这个仓库收录的是我们自己网站 **[lizhi.pcoic.com](https://lizhi.pcoic.com)（数码荔枝优惠码站）** 逐款验证过的软件——每一款都有完整版评测、真实截图和购买激活教程。
 
@@ -20,6 +20,8 @@
 
 - [DisplayBuddy](#displaybuddy)
 - [Gety](#gety)
+- [PixPin](#pixpin)
+- [PDF Expert 3](#pdf-expert-3)
 - [Typora](#typora)
 - [IDM](#idm)
 - [UPDF](#updf)
@@ -45,6 +47,26 @@ Mac / Windows 双平台的外接显示器控制软件，用 DDC 协议直接控�
 - 💰 永久 Pro 版数码荔枝价 ¥899，用码 `PCALL` 后 **¥854.05**（2026-10-11 验证），比官网 $169（约 ¥1217）便宜约 ¥363
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/gety-discount-guide.html)
+
+---
+
+### PixPin
+
+Windows / macOS 双平台的长截图、贴图、标注一体化工具：滚动长截图、截图贴图置顶、OCR 文字识别、GIF 录制一气呵成，绝大部分核心功能免费，会员解锁智能擦除、多语种翻译、表格/公式识别等进阶能力。
+
+- 💰 永久版数码荔枝价 ¥195，用码 `PCALL` 后 **¥185.25**（2026-10-12 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/pixpin-discount-guide.html)
+
+---
+
+### PDF Expert 3
+
+Readdle 出品的 Apple 生态 PDF 工具，Mac / iPhone / iPad 三端通用：阅读标注、文本编辑、表单填写、电子签名、OCR、合并拆分一应俱全，iCloud 跨设备同步文档和标注。
+
+- 💰 永久版数码荔枝价 ¥599，用码 `PCALL` 后 **¥569.05**（2026-10-12 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/pdf-expert-3-discount-guide.html)
 
 ---
 
