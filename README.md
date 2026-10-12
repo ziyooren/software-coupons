@@ -21,7 +21,6 @@
 - [DisplayBuddy](#displaybuddy)
 - [Gety](#gety)
 - [PixPin](#pixpin)
-- [PDF Expert 3](#pdf-expert-3)
 - [Typora](#typora)
 - [IDM](#idm)
 - [UPDF](#updf)
@@ -57,16 +56,6 @@ Windows / macOS 双平台的长截图、贴图、标注一体化工具：滚动�
 - 💰 永久版数码荔枝价 ¥195，用码 `PCALL` 后 **¥185.25**（2026-10-12 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/pixpin-discount-guide.html)
-
----
-
-### PDF Expert 3
-
-Readdle 出品的 Apple 生态 PDF 工具，Mac / iPhone / iPad 三端通用：阅读标注、文本编辑、表单填写、电子签名、OCR、合并拆分一应俱全，iCloud 跨设备同步文档和标注。
-
-- 💰 永久版数码荔枝价 ¥599，用码 `PCALL` 后 **¥569.05**（2026-10-12 验证）
-- 🎟 优惠码 `PCALL`，全场 9.5 折
-- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/pdf-expert-3-discount-guide.html)
 
 ---
 
