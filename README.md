@@ -4,7 +4,7 @@
 >
 > 🎟 **优惠码 `PCOIC`**：Windows / Microsoft 365 专享 **9 折**，比 PCALL 更划算
 >
-> 最后更新：2026-10-12
+> 最后更新：2026-10-19
 
 在[数码荔枝](https://lizhi.shop/?cid=getxya4c&utm_medium=8r26xcug)买正版软件，结算时填写优惠码直接立减。这个仓库收录的是我们自己网站 **[lizhi.pcoic.com](https://lizhi.pcoic.com)（数码荔枝优惠码站）** 逐款验证过的软件——每一款都有完整版评测、真实截图和购买激活教程。
 
@@ -22,6 +22,7 @@
 - [Gety](#gety)
 - [PixPin](#pixpin)
 - [Typora](#typora)
+- [Quicker](#quicker)
 - [IDM](#idm)
 - [UPDF](#updf)
 - [Downie 4](#downie-4)
@@ -68,6 +69,16 @@ Windows / macOS 双平台的长截图、贴图、标注一体化工具：滚动�
 
 ---
 
+### Quicker
+
+Windows 效率工具：鼠标中键呼出轮盘菜单，一秒完成原本要点三四次的操作；组合动作把重复流程变成一键执行，20 万+ 社区共享动作下载即用，零编程门槛。
+
+- 💰 一年专业版数码荔枝价 ¥57.60，用码 `PCALL` 后 **¥54.72**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/quicker-discount-guide.html)
+
+---
+
 ### IDM
 
 Windows 下载加速器的老牌标杆：多线程加速、断点续传、网页视频嗅探下载，冷门资源也能跑满带宽。一次买断，终身免费更新。
@@ -106,7 +117,7 @@ Mac 上的视频下载利器，支持上千个网站，4K 视频一键保存到�
 
 ### Microsoft 365
 
-Word / Excel / PowerPoint 全家桶，拼车版把人均成本打下来，适合个人和家庭用户。
+Word / Excel / PowerPoint 全家桶，拼车版把人均成本打下来，适合个人和家庭用户。拼车-共享成员版是近期出单最多的微软系 SKU（近一周 5 单）。
 
 - 🎟 优惠码 `PCALL` 9.5 折，或 `PCOIC` **9 折**（更划算）
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/microsoft-365-discount-guide.html)
