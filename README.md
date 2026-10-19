@@ -16,29 +16,67 @@
 2. 结算页"优惠码"一栏填写优惠码：一般软件填 `PCALL`（9.5 折）；Windows / Microsoft 365 填 `PCOIC`（9 折，更划算）
 3. 价格自动立减，微信 / 支付宝付款，激活码自动发货
 
+## 🔥 近两周出单 Top 5
+
+> 数据来自数码荔枝推广后台实读订单（2026-10-06 ~ 2026-10-18），每周更新。
+
+| 排名 | 软件 | 近两周销量 |
+| --- | --- | --- |
+| 1 | [Typora](#typora) | 15 单 |
+| 2 | [Microsoft 365](#microsoft-365)（拼车版） | 8 单 |
+| 3 | [PixPin](#pixpin) | 7 单 |
+| 4 | [Quicker](#quicker) | 5 单 |
+| 5 | [IDM](#idm) | 4 单 |
+
+## ⚡ 速查表
+
+| 软件 | 一句话 | 用码价 | 优惠码 |
+| --- | --- | --- | --- |
+| [DisplayBuddy](#displaybuddy) | Mac / Win 外接显示器控制 | ¥56.05 | `PCALL` |
+| [Gety](#gety) | 本地 AI 文件搜索 | ¥854.05 | `PCALL` |
+| [PixPin](#pixpin) | 长截图 / 贴图 / 标注 | ¥185.25 | `PCALL` |
+| [Typora](#typora) | 跨平台 Markdown 写作 | ¥84.55 | `PCALL` |
+| [Quicker](#quicker) | Windows 效率动作工具 | ¥54.72 | `PCALL` |
+| [IDM](#idm) | Windows 多线程下载（永久版） | ¥121.6 | `PCALL` |
+| [UPDF](#updf) | 跨平台 PDF 编辑器（永久专业版） | ¥213.75 | `PCALL` |
+| [Downie 4](#downie-4) | Mac 视频下载（+ Permute 4 套装） | ¥137.75 | `PCALL` |
+| [Windows 11](#windows-11) | 正版系统激活码（专业版） | ¥224.1 | `PCOIC` |
+| [Microsoft 365](#microsoft-365) | Office 订阅（拼车版 / 年） | ¥89.1 | `PCOIC` |
+| [PDF Expert 3](#pdf-expert-3) | Mac PDF 阅读编辑（永久版） | ¥569.05 | `PCALL` |
+| [AdGuard](#adguard) | 全平台广告拦截（个人永久） | ¥113.05 | `PCALL` |
+| [Bandizip](#bandizip) | 解压缩工具（专业版） | ¥189.05 | `PCALL` |
+| [Parallels Desktop](#parallels-desktop) | Mac 虚拟机（一年个人标准版） | ¥260.3 | `PCALL` |
+| [AlDente Pro](#aldente-pro) | MacBook 电池管理（永久版） | ¥147.25 | `PCALL` |
+| [Fences 6](#fences-6) | Windows 桌面整理（永久版） | ¥113.05 | `PCALL` |
+| [Directory Opus 13](#directory-opus-13) | 文件管理器（中国版） | ¥152.62 | `PCALL` |
+| [Process Lasso](#process-lasso) | Windows 进程优化（永久版） | ¥113.05 | `PCALL` |
+| [Sandboxie Plus](#sandboxie-plus) | 沙盒隔离（永久三设备） | ¥464.55 | `PCALL` |
+| [Eagle](#eagle) | 素材管理归档（个人版） | ¥232.75 | `PCALL` |
+| [Navicat](#navicat) | 数据库管理（Premium 永久非商业） | ¥6353.6 | `PCALL` |
+
+*用码价为 2026-10-19 逐款核实（页面实时价为准），优惠码长期有效。*
+
 ## 目录
 
-- [DisplayBuddy](#displaybuddy)
-- [Gety](#gety)
-- [PixPin](#pixpin)
-- [Typora](#typora)
-- [Quicker](#quicker)
-- [IDM](#idm)
-- [UPDF](#updf)
-- [Downie 4](#downie-4)
-- [Windows 11](#windows-11)
-- [Microsoft 365](#microsoft-365)
-- [PDF Expert 3](#pdf-expert-3)
-- [AdGuard](#adguard)
-- [Bandizip](#bandizip)
-- [Parallels Desktop](#parallels-desktop)
-- [AlDente Pro](#aldente-pro)
-- [Fences 6](#fences-6)
-- [Directory Opus 13](#directory-opus-13)
-- [Process Lasso](#process-lasso)
-- [Sandboxie Plus](#sandboxie-plus)
-- [Eagle](#eagle)
-- [Navicat](#navicat)
+### ⚡ 效率工具
+
+[Gety](#gety) · [PixPin](#pixpin) · [Typora](#typora) · [Quicker](#quicker) · [Microsoft 365](#microsoft-365) · [Eagle](#eagle)
+
+### 🖥️ 系统工具
+
+[DisplayBuddy](#displaybuddy) · [Windows 11](#windows-11) · [AdGuard](#adguard) · [Bandizip](#bandizip) · [Parallels Desktop](#parallels-desktop) · [AlDente Pro](#aldente-pro) · [Fences 6](#fences-6) · [Directory Opus 13](#directory-opus-13) · [Process Lasso](#process-lasso) · [Sandboxie Plus](#sandboxie-plus)
+
+### 📄 PDF 与文档
+
+[UPDF](#updf) · [PDF Expert 3](#pdf-expert-3)
+
+### ⬇️ 下载工具
+
+[IDM](#idm) · [Downie 4](#downie-4)
+
+### 🛠️ 开发工具
+
+[Navicat](#navicat)
 
 ---
 
@@ -75,6 +113,7 @@ Windows / macOS 双平台的长截图、贴图、标注一体化工具：滚动�
 
 极简 Markdown 编辑器，所见即所得的写作体验，写文档、博客、笔记的神器，一次买断、没有订阅费。9 月在我们网站卖出 28 单，是回购率最高的写作工具。
 
+- 💰 个人版（永久）数码荔枝价 ¥89，用码 `PCALL` 后 **¥84.55**（2026-10-19 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/typora-discount-guide.html)
 
@@ -94,6 +133,7 @@ Windows 效率工具：鼠标中键呼出轮盘菜单，一秒完成原本要点
 
 Windows 下载加速器的老牌标杆：多线程加速、断点续传、网页视频嗅探下载，冷门资源也能跑满带宽。一次买断，终身免费更新。
 
+- 💰 永久版数码荔枝价 ¥128，用码 `PCALL` 后 **¥121.6**（2026-10-19 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/idm-discount-guide.html)
 
@@ -103,6 +143,7 @@ Windows 下载加速器的老牌标杆：多线程加速、断点续传、网页
 
 新一代跨平台 PDF 编辑器：阅读、标注、编辑、转换、AI 总结一应俱全，Windows / Mac / 手机多端同步。买断制，价格只有 Adobe 的零头。
 
+- 💰 永久专业版数码荔枝价 ¥225，用码 `PCALL` 后 **¥213.75**（2026-10-19 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/updf-discount-guide.html)
 
@@ -112,6 +153,7 @@ Windows 下载加速器的老牌标杆：多线程加速、断点续传、网页
 
 Mac 上的视频下载利器，支持上千个网站，4K 视频一键保存到本地。搭配格式转换工具，离线看片体验完整。
 
+- 💰 Downie 4 + Permute 4 套装数码荔枝价 ¥145，用码 `PCALL` 后 **¥137.75**（2026-10-19 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/downie-discount-guide.html)
 
@@ -121,6 +163,7 @@ Mac 上的视频下载利器，支持上千个网站，4K 视频一键保存到�
 
 微软正版操作系统数字授权。
 
+- 💰 专业版数码荔枝价 ¥249，用码 `PCOIC` 后 **¥224.1**（2026-10-19 验证）
 - 🎟 优惠码 `PCALL` 9.5 折，或 `PCOIC` **9 折**（更划算）
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/windows-11-discount-guide.html)
 
@@ -130,6 +173,7 @@ Mac 上的视频下载利器，支持上千个网站，4K 视频一键保存到�
 
 Word / Excel / PowerPoint 全家桶，拼车版把人均成本打下来，适合个人和家庭用户。拼车-共享成员版是近期出单最多的微软系 SKU（近一周 5 单）。
 
+- 💰 拼车版 ¥99/年，用码 `PCOIC` 后 **¥89.1/年**（2026-10-19 验证）
 - 🎟 优惠码 `PCALL` 9.5 折，或 `PCOIC` **9 折**（更划算）
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/microsoft-365-discount-guide.html)
 
