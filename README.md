@@ -28,6 +28,17 @@
 - [Downie 4](#downie-4)
 - [Windows 11](#windows-11)
 - [Microsoft 365](#microsoft-365)
+- [PDF Expert 3](#pdf-expert-3)
+- [AdGuard](#adguard)
+- [Bandizip](#bandizip)
+- [Parallels Desktop](#parallels-desktop)
+- [AlDente Pro](#aldente-pro)
+- [Fences 6](#fences-6)
+- [Directory Opus 13](#directory-opus-13)
+- [Process Lasso](#process-lasso)
+- [Sandboxie Plus](#sandboxie-plus)
+- [Eagle](#eagle)
+- [Navicat](#navicat)
 
 ---
 
@@ -121,6 +132,116 @@ Word / Excel / PowerPoint 全家桶，拼车版把人均成本打下来，适合
 
 - 🎟 优惠码 `PCALL` 9.5 折，或 `PCOIC` **9 折**（更划算）
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/microsoft-365-discount-guide.html)
+
+---
+
+### PDF Expert 3
+
+Readdle 出品的 Apple 生态 PDF 工具，Mac / iPhone / iPad 三端通用：阅读标注、文本编辑、表单填写、电子签名、OCR、合并拆分一应俱全，iCloud 跨设备同步文档和标注。
+
+- 💰 永久版数码荔枝价 ¥599，用码 `PCALL` 后 **¥569.05**（2026-10-12 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/pdf-expert-3-discount-guide.html)
+
+---
+
+### AdGuard
+
+系统级广告拦截，Windows / macOS / iOS / Android 全平台覆盖：不止浏览器，所有 App 内的广告和跟踪器都能拦，还带恶意网站过滤和 HTTPS 过滤。数码荔枝是 AdGuard 中国区独家授权代理商。
+
+- 💰 个人永久版数码荔枝价 ¥119，用码 `PCALL` 后 **¥113.05**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/adguard-discount-guide.html)
+
+---
+
+### Bandizip
+
+韩国老牌解压缩工具：50+ 种格式、多核加速，压缩包内直接预览改文件不用解压；专业版解锁 AES-256 加密压缩、分卷压缩、自解压 EXE 创建。公司环境用免费版有限制，专业版合规省心。
+
+- 💰 单用户专业版数码荔枝价 ¥199，用码 `PCALL` 后 **¥189.05**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/bandizip-discount-guide.html)
+
+---
+
+### Parallels Desktop
+
+Mac 上跑 Windows 最省心的虚拟机：Coherence 模式让 Windows 应用像原生 Mac 应用一样混用，M1~M5 全系支持，Windows 11 on ARM 转译 x64 应用性能达原生 85-95%。数码荔枝价不到官网一半，还支持微信支付宝。
+
+- 💰 一年个人标准版数码荔枝价 ¥274，用码 `PCALL` 后 **¥260.3**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/parallels-desktop-20-discount-guide.html)
+
+---
+
+### AlDente Pro
+
+MacBook 电池健康管理：自定义充电上限、主动放电、航行模式防频繁微充、高温自动暂停充电，比 macOS 自带的"优化电池充电"精细得多。长期插电当台式机用的人必备，一次设置终身受益。
+
+- 💰 永久版数码荔枝价 ¥155，用码 `PCALL` 后 **¥147.25**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/aldente-pro-discount-guide.html)
+
+---
+
+### Fences 6
+
+Windows 桌面图标整理鼻祖：桌面围栏分区、自动归类规则（新文件自动归位）、文件夹门户（桌面直显文件夹内容）、多桌面页面、布局快照。跟免费/便宜的整理工具比，贵在"有没有"而非"好不好"。
+
+- 💰 永久版数码荔枝价 ¥119，用码 `PCALL` 后 **¥113.05**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/fences-6-discount-guide.html)
+
+---
+
+### Directory Opus 13
+
+Windows 资源管理器的完全替代品：双栏多标签、正则批量重命名（带实时预览）、Everything 秒搜集成、Win+E 全面接管。每天跟大量文件打交道的人装上就回不去，有 60 天免费试用。
+
+- 💰 中国版数码荔枝价 ¥160.65，用码 `PCALL` 后 **¥152.62**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/directory-opus-13-discount-guide.html)
+
+---
+
+### Process Lasso
+
+Windows 进程实时优化：ProBalance 技术自动压住抢资源的后台进程，游戏模式、CPU 亲和性锁定、内存优化，老机器和多任务重度用户的救星，非侵入式不影响系统稳定。
+
+- 💰 永久版数码荔枝价 ¥119，用码 `PCALL` 后 **¥113.05**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/process-lasso-discount-guide.html)
+
+---
+
+### Sandboxie Plus
+
+Windows 轻量沙盒：来路不明的软件丢进去跑、游戏多开、测试环境隔离，数据持久化、多沙盒并行，性能开销接近原生。跟系统自带 Sandbox 比，核心差别是沙盒数据关掉后还保留。
+
+- 💰 永久三设备版数码荔枝价 ¥489，用码 `PCALL` 后 **¥464.55**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/sandboxie-plus-discount-guide.html)
+
+---
+
+### Eagle
+
+macOS 专用资料归档库（EagleFiler）：网页、邮件、PDF、文档一键归档，全文检索；开放式文件结构——库就是普通文件夹，软件哪天不更新了文件照样能用，这是敢把多年资料放进去的前提。
+
+- 💰 个人版数码荔枝价 ¥245，用码 `PCALL` 后 **¥232.75**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/eagle-discount-guide.html)
+
+---
+
+### Navicat
+
+数据库开发者的标配：一个工具连 MySQL / PostgreSQL / Oracle / SQL Server / MongoDB 等全种类，跨库数据迁移、SSH 隧道、数据同步备份点几下搞定。只用一种数据库选单库版，两种以上直接上 Premium。
+
+- 💰 Premium 永久非商业版数码荔枝价 ¥6688，用码 `PCALL` 后 **¥6353.6**（2026-10-19 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/navicat-discount-guide.html)
 
 ---
 
