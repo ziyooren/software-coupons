@@ -4,7 +4,7 @@
 >
 > 🎟 **优惠码 `PCOIC`**：Windows / Microsoft 365 专享 **9 折**，比 PCALL 更划算
 >
-> 最后更新：2026-10-19
+> 最后更新：2026-11-01
 
 在[数码荔枝](https://lizhi.shop/?cid=getxya4c&utm_medium=8r26xcug)买正版软件，结算时填写优惠码直接立减。这个仓库收录的是我们自己网站 **[lizhi.pcoic.com](https://lizhi.pcoic.com)（数码荔枝优惠码站）** 逐款验证过的软件——每一款都有完整版评测、真实截图和购买激活教程。
 
@@ -51,10 +51,11 @@
 | [Directory Opus 13](#directory-opus-13) | 文件管理器（中国版） | ¥152.62 | `PCALL` |
 | [Process Lasso](#process-lasso) | Windows 进程优化（永久版） | ¥113.05 | `PCALL` |
 | [Sandboxie Plus](#sandboxie-plus) | 沙盒隔离（永久三设备） | ¥464.55 | `PCALL` |
+| [Mole](#mole) | Mac 清理维护（永久双设备版） | ¥103.55 | `PCALL` |
 | [Eagle](#eagle) | 素材管理归档（个人版） | ¥232.75 | `PCALL` |
 | [Navicat](#navicat) | 数据库管理（Premium 永久非商业） | ¥6353.6 | `PCALL` |
 
-*用码价为 2026-10-19 逐款核实（页面实时价为准），优惠码长期有效。*
+*用码价为 2026-10-19 逐款核实，Mole 为 2026-11-01 核实（页面实时价为准），优惠码长期有效。*
 
 ## 目录
 
@@ -64,7 +65,7 @@
 
 ### 🖥️ 系统工具
 
-[DisplayBuddy](#displaybuddy) · [Windows 11](#windows-11) · [AdGuard](#adguard) · [Bandizip](#bandizip) · [Parallels Desktop](#parallels-desktop) · [AlDente Pro](#aldente-pro) · [Fences 6](#fences-6) · [Directory Opus 13](#directory-opus-13) · [Process Lasso](#process-lasso) · [Sandboxie Plus](#sandboxie-plus)
+[DisplayBuddy](#displaybuddy) · [Windows 11](#windows-11) · [AdGuard](#adguard) · [Bandizip](#bandizip) · [Parallels Desktop](#parallels-desktop) · [AlDente Pro](#aldente-pro) · [Fences 6](#fences-6) · [Directory Opus 13](#directory-opus-13) · [Process Lasso](#process-lasso) · [Sandboxie Plus](#sandboxie-plus) · [Mole](#mole)
 
 ### 📄 PDF 与文档
 
@@ -266,6 +267,16 @@ Windows 轻量沙盒：来路不明的软件丢进去跑、游戏多开、测试
 - 💰 永久三设备版数码荔枝价 ¥489，用码 `PCALL` 后 **¥464.55**（2026-10-19 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/sandboxie-plus-discount-guide.html)
+
+---
+
+### Mole
+
+原生 macOS 清理与系统工具：清理、软件管理、系统维护、磁盘分析、状态监控集中在一个窗口；先预览后删除、白名单保护，不后台驻留。永久双设备版，2 台 Mac、含后续更新，支持 macOS 14 及以上。
+
+- 💰 双 11 特惠价 ¥109（划线 ¥119），用码 `PCALL` 后 **¥103.55**（2026-11-01 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/mole-discount-guide.html)
 
 ---
 
