@@ -4,7 +4,7 @@
 >
 > 🎟 **优惠码 `PCOIC`**：Windows / Microsoft 365 专享 **9 折**，比 PCALL 更划算
 >
-> 最后更新：2026-11-01
+> 最后更新：2026-11-02
 
 在[数码荔枝](https://lizhi.shop/?cid=getxya4c&utm_medium=8r26xcug)买正版软件，结算时填写优惠码直接立减。这个仓库收录的是我们自己网站 **[lizhi.pcoic.com](https://lizhi.pcoic.com)（数码荔枝优惠码站）** 逐款验证过的软件——每一款都有完整版评测、真实截图和购买激活教程。
 
@@ -18,15 +18,15 @@
 
 ## 🔥 出单 Top 5
 
-> 数据来自数码荔枝推广后台实读订单（2026-10-06 ~ 2026-10-26，三次快照累计），每周更新。
+> 数据来自数码荔枝推广后台导出表（2026-10-27 ~ 2026-11-02），每周更新。
 
-| 排名 | 软件 | 累计销量 |
+| 排名 | 软件 | 销量 |
 | --- | --- | --- |
-| 1 | [Typora](#typora) | 20 单 |
-| 2 | [Microsoft 365](#microsoft-365)（拼车版） | 11 单 |
-| 3 | [PixPin](#pixpin) | 11 单 |
-| 4 | [Quicker](#quicker) | 5 单 |
-| 5 | [IDM](#idm) | 5 单 |
+| 1 | [Typora](#typora) | 18 单 |
+| 2 | [PixPin](#pixpin) | 16 单 |
+| 3 | [Listary Pro](#listary-pro) | 6 单 |
+| 4 | [AdGuard](#adguard) | 5 单 |
+| 5 | [Mole](#mole) | 4 单 |
 
 ## ⚡ 速查表
 
@@ -54,14 +54,15 @@
 | [Mole](#mole) | Mac 清理维护（永久双设备版） | ¥103.55 | `PCALL` |
 | [Eagle](#eagle) | 素材管理归档（个人版） | ¥232.75 | `PCALL` |
 | [Navicat](#navicat) | 数据库管理（Premium 永久非商业） | ¥6353.6 | `PCALL` |
+| [Listary Pro](#listary-pro) | Windows 文件搜索启动 | ¥93.10 | `PCALL` |
 
-*用码价为 2026-10-19 逐款核实，Mole 为 2026-11-01 核实（页面实时价为准），优惠码长期有效。*
+*用码价为 2026-10-19 逐款核实，Mole 为 2026-11-01、Listary Pro 为 2026-11-02 核实（页面实时价为准），优惠码长期有效。*
 
 ## 目录
 
 ### ⚡ 效率工具
 
-[Gety](#gety) · [PixPin](#pixpin) · [Typora](#typora) · [Quicker](#quicker) · [Microsoft 365](#microsoft-365) · [Eagle](#eagle)
+[Gety](#gety) · [PixPin](#pixpin) · [Typora](#typora) · [Quicker](#quicker) · [Microsoft 365](#microsoft-365) · [Eagle](#eagle) · [Listary Pro](#listary-pro)
 
 ### 🖥️ 系统工具
 
@@ -297,6 +298,15 @@ macOS 专用资料归档库（EagleFiler）：网页、邮件、PDF、文档一�
 - 💰 Premium 永久非商业版数码荔枝价 ¥6688，用码 `PCALL` 后 **¥6353.6**（2026-10-19 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/navicat-discount-guide.html)
+
+---
+
+### Listary Pro
+
+Windows 文件搜索与启动工具：双击 Ctrl 就能全盘秒搜文件、程序和设置，模糊匹配容错率高，常用文件收藏后一键直达。每天和成堆文件打交道的人，用一次就回不去了。一次买断、永久使用，支持 3 台设备。
+
+- 💰 单用户版数码荔枝价 ¥98，用码 `PCALL` 后 **¥93.10**（2026-11-02 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
 
 ---
 
