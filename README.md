@@ -55,14 +55,15 @@
 | [Eagle](#eagle) | 素材管理归档（个人版） | ¥232.75 | `PCALL` |
 | [Navicat](#navicat) | 数据库管理（Premium 永久非商业） | ¥6353.6 | `PCALL` |
 | [Listary Pro](#listary-pro) | Windows 文件搜索启动 | ¥93.10 | `PCALL` |
+| [BandiView](#bandiview) | Windows 图像查看器（RAW / HDR） | ¥223.25 | `PCALL` |
 
-*用码价为 2026-10-19 逐款核实，Mole 为 2026-11-01、Listary Pro 为 2026-11-02 核实（页面实时价为准），优惠码长期有效。*
+*用码价为 2026-10-19 逐款核实，Mole 为 2026-11-01、Listary Pro 为 2026-11-02、BandiView 为 2026-11-09 核实（页面实时价为准），优惠码长期有效。*
 
 ## 目录
 
 ### ⚡ 效率工具
 
-[Gety](#gety) · [PixPin](#pixpin) · [Typora](#typora) · [Quicker](#quicker) · [Microsoft 365](#microsoft-365) · [Eagle](#eagle) · [Listary Pro](#listary-pro)
+[Gety](#gety) · [PixPin](#pixpin) · [Typora](#typora) · [Quicker](#quicker) · [Microsoft 365](#microsoft-365) · [Eagle](#eagle) · [Listary Pro](#listary-pro) · [BandiView](#bandiview)
 
 ### 🖥️ 系统工具
 
@@ -306,6 +307,15 @@ macOS 专用资料归档库（EagleFiler）：网页、邮件、PDF、文档一�
 Windows 文件搜索与启动工具：双击 Ctrl 就能全盘秒搜文件、程序和设置，模糊匹配容错率高，常用文件收藏后一键直达。每天和成堆文件打交道的人，用一次就回不去了。一次买断、永久使用，支持 3 台设备。
 
 - 💰 单用户版数码荔枝价 ¥98，用码 `PCALL` 后 **¥93.10**（2026-11-02 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+
+---
+
+### BandiView
+
+Windows 上的专业图像查看器：RAW、HEIC、WebP、AVIF 这些新格式都能直接打开，支持 HDR 输出，压缩包不用解压就能翻图看漫画，看图比系统自带快得多。专业版一次买断、永久使用。
+
+- 💰 专业版单设备数码荔枝价 ¥235，用码 `PCALL` 后 **¥223.25**（2026-11-09 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 
 ---
