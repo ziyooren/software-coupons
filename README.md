@@ -4,7 +4,7 @@
 >
 > 🎟 **优惠码 `PCOIC`**：Windows / Microsoft 365 专享 **9 折**，比 PCALL 更划算
 >
-> 最后更新：2026-11-02
+> 最后更新：2026-11-09
 
 在[数码荔枝](https://lizhi.shop/?cid=getxya4c&utm_medium=8r26xcug)买正版软件，结算时填写优惠码直接立减。这个仓库收录的是我们自己网站 **[lizhi.pcoic.com](https://lizhi.pcoic.com)（数码荔枝优惠码站）** 逐款验证过的软件——每一款都有完整版评测、真实截图和购买激活教程。
 
@@ -18,15 +18,15 @@
 
 ## 🔥 出单 Top 5
 
-> 数据来自数码荔枝推广后台导出表（2026-10-27 ~ 2026-11-02），每周更新。
+> 数据来自数码荔枝推广后台导出表（2026-11-01 ~ 2026-11-09），每周更新。
 
 | 排名 | 软件 | 销量 |
 | --- | --- | --- |
-| 1 | [Typora](#typora) | 18 单 |
-| 2 | [PixPin](#pixpin) | 16 单 |
-| 3 | [Listary Pro](#listary-pro) | 6 单 |
-| 4 | [AdGuard](#adguard) | 5 单 |
-| 5 | [Mole](#mole) | 4 单 |
+| 1 | [Mole](#mole) | 16 单 |
+| 2 | [Typora](#typora) | 14 单 |
+| 3 | [PixPin](#pixpin) | 14 单 |
+| 4 | [Listary Pro](#listary-pro) | 8 单 |
+| 5 | [Microsoft 365 拼车](#microsoft-365) | 8 单 |
 
 ## ⚡ 速查表
 
