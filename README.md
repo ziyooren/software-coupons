@@ -4,7 +4,7 @@
 >
 > 🎟 **优惠码 `PCOIC`**：Windows / Microsoft 365 专享 **9 折**，比 PCALL 更划算
 >
-> 最后更新：2026-11-09
+> 最后更新：2026-11-11
 
 在[数码荔枝](https://lizhi.shop/?cid=getxya4c&utm_medium=8r26xcug)买正版软件，结算时填写优惠码直接立减。这个仓库收录的是我们自己网站 **[lizhi.pcoic.com](https://lizhi.pcoic.com)（数码荔枝优惠码站）** 逐款验证过的软件——每一款都有完整版评测、真实截图和购买激活教程。
 
@@ -308,6 +308,7 @@ Windows 文件搜索与启动工具：双击 Ctrl 就能全盘秒搜文件、程
 
 - 💰 单用户版数码荔枝价 ¥98，用码 `PCALL` 后 **¥93.10**（2026-11-02 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/listary-pro-discount-guide.html)
 
 ---
 
@@ -317,6 +318,7 @@ Windows 上的专业图像查看器：RAW、HEIC、WebP、AVIF 这些新格式�
 
 - 💰 专业版单设备数码荔枝价 ¥235，用码 `PCALL` 后 **¥223.25**（2026-11-09 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/bandiview-discount-guide.html)
 
 ---
 
