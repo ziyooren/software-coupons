@@ -4,11 +4,17 @@
 >
 > 🎟 **优惠码 `PCOIC`**：Windows / Microsoft 365 专享 **9 折**，比 PCALL 更划算
 >
-> 最后更新：2026-11-11
+> 最后更新：2026-11-14
 
 在[数码荔枝](https://lizhi.shop/?cid=getxya4c&utm_medium=8r26xcug)买正版软件，结算时填写优惠码直接立减。这个仓库收录的是我们自己网站 **[lizhi.pcoic.com](https://lizhi.pcoic.com)（数码荔枝优惠码站）** 逐款验证过的软件——每一款都有完整版评测、真实截图和购买激活教程。
 
 **和别家不一样的地方**：我们的优惠码是长期有效的。网上很多"限时优惠码"，下单时才发现已经过期，我们的不会。
+
+## 🎉 双11优惠返场（2026年11月）
+
+双 11 过去了，但有 **148 款软件**继续享受优惠——没入手的不用后悔，这一轮返场把该留的折扣都留了下来。返场清单和实时价格以活动页显示为准，同样可叠加优惠码（`PCALL` 9.5 折，微软产品用 `PCOIC` 9 折）。
+
+👉 [返场入口](https://www.pcoic.com/click/lizhi-site/current-offer-2)
 
 ## 优惠码怎么用
 
@@ -48,16 +54,16 @@
 | [Parallels Desktop](#parallels-desktop) | Mac 虚拟机（一年个人标准版） | ¥260.3 | `PCALL` |
 | [AlDente Pro](#aldente-pro) | MacBook 电池管理（永久版） | ¥147.25 | `PCALL` |
 | [Fences 6](#fences-6) | Windows 桌面整理（永久版） | ¥113.05 | `PCALL` |
-| [Directory Opus 13](#directory-opus-13) | 文件管理器（中国版） | ¥152.62 | `PCALL` |
+| [Directory Opus 13](#directory-opus-13) | 文件管理器（中国版） | ¥179.55 | `PCALL` |
 | [Process Lasso](#process-lasso) | Windows 进程优化（永久版） | ¥113.05 | `PCALL` |
 | [Sandboxie Plus](#sandboxie-plus) | 沙盒隔离（永久三设备） | ¥464.55 | `PCALL` |
-| [Mole](#mole) | Mac 清理维护（永久双设备版） | ¥103.55 | `PCALL` |
+| [Mole](#mole) | Mac 清理维护（永久双设备版） | ¥113.05 | `PCALL` |
 | [Eagle](#eagle) | 素材管理归档（个人版） | ¥232.75 | `PCALL` |
 | [Navicat](#navicat) | 数据库管理（Premium 永久非商业） | ¥6353.6 | `PCALL` |
 | [Listary Pro](#listary-pro) | Windows 文件搜索启动 | ¥93.10 | `PCALL` |
 | [BandiView](#bandiview) | Windows 图像查看器（RAW / HDR） | ¥223.25 | `PCALL` |
 
-*用码价为 2026-10-19 逐款核实，Mole 为 2026-11-01、Listary Pro 为 2026-11-02、BandiView 为 2026-11-09、Gety 为 2026-11-11 核实（页面实时价为准），优惠码长期有效；Gety 不适用优惠码。*
+*用码价为 2026-10-19 逐款核实，Listary Pro 为 2026-11-02、BandiView 为 2026-11-09、Gety 为 2026-11-11、Mole 与 Directory Opus 13 为 2026-11-14 核实（页面实时价为准），优惠码长期有效；Gety 不适用优惠码。*
 
 ## 目录
 
@@ -246,7 +252,7 @@ Windows 桌面图标整理鼻祖：桌面围栏分区、自动归类规则（新
 
 Windows 资源管理器的完全替代品：双栏多标签、正则批量重命名（带实时预览）、Everything 秒搜集成、Win+E 全面接管。每天跟大量文件打交道的人装上就回不去，有 60 天免费试用。
 
-- 💰 中国版数码荔枝价 ¥160.65，用码 `PCALL` 后 **¥152.62**（2026-10-19 验证）
+- 💰 中国版数码荔枝价 ¥189，用码 `PCALL` 后 **¥179.55**（2026-11-14 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/directory-opus-13-discount-guide.html)
 
@@ -276,7 +282,7 @@ Windows 轻量沙盒：来路不明的软件丢进去跑、游戏多开、测试
 
 原生 macOS 清理与系统工具：清理、软件管理、系统维护、磁盘分析、状态监控集中在一个窗口；先预览后删除、白名单保护，不后台驻留。永久双设备版，2 台 Mac、含后续更新，支持 macOS 14 及以上。
 
-- 💰 双 11 特惠价 ¥109（划线 ¥119），用码 `PCALL` 后 **¥103.55**（2026-11-01 验证）
+- 💰 永久双设备版数码荔枝价 ¥119，用码 `PCALL` 后 **¥113.05**（2026-11-14 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/mole-discount-guide.html)
 
