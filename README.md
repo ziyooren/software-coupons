@@ -63,14 +63,15 @@
 | [Listary Pro](#listary-pro) | Windows 文件搜索启动 | ¥93.10 | `PCALL` |
 | [BandiView](#bandiview) | Windows 图像查看器（RAW / HDR） | ¥223.25 | `PCALL` |
 | [Cubox Pro](#cubox-pro) | 多平台知识管理（一年高级会员） | ¥93.10 | `PCALL` |
+| [沉浸式翻译](#沉浸式翻译) | 双语对照翻译（Pro 年度会员） | ¥550.62 | `PCALL` |
 
-*用码价为 2026-10-19 逐款核实，Listary Pro 为 2026-11-02、BandiView 为 2026-11-09、Gety 为 2026-11-11、Mole 与 Directory Opus 13 为 2026-11-14、Cubox Pro 为 2026-11-16 核实（页面实时价为准），优惠码长期有效；Gety 不适用优惠码。*
+*用码价为 2026-10-19 逐款核实，Listary Pro 为 2026-11-02、BandiView 为 2026-11-09、Gety 为 2026-11-11、Mole 与 Directory Opus 13 为 2026-11-14、Cubox Pro 与沉浸式翻译为 2026-11-16 核实（页面实时价为准），优惠码长期有效；Gety 不适用优惠码。*
 
 ## 目录
 
 ### ⚡ 效率工具
 
-[Gety](#gety) · [PixPin](#pixpin) · [Typora](#typora) · [Quicker](#quicker) · [Microsoft 365](#microsoft-365) · [Eagle](#eagle) · [Listary Pro](#listary-pro) · [BandiView](#bandiview) · [Cubox Pro](#cubox-pro)
+[Gety](#gety) · [PixPin](#pixpin) · [Typora](#typora) · [Quicker](#quicker) · [Microsoft 365](#microsoft-365) · [Eagle](#eagle) · [Listary Pro](#listary-pro) · [BandiView](#bandiview) · [Cubox Pro](#cubox-pro) · [沉浸式翻译](#沉浸式翻译)
 
 ### 🖥️ 系统工具
 
@@ -335,6 +336,16 @@ Windows 上的专业图像查看器：RAW、HEIC、WebP、AVIF 这些新格式�
 
 - 💰 一年高级会员数码荔枝价 ¥98，用码 `PCALL` 后 **¥93.10**（2026-11-16 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
+
+---
+
+### 沉浸式翻译
+
+双语对照翻译工具：原文留着、译文插在下面对照着看，网页、PDF、EPUB、字幕、漫画都能翻；浏览器扩展覆盖 Chrome / Edge / Safari / Firefox，手机端有 iOS 与 Android App，一份授权 8 台设备。免费版基础功能长期可用，Pro 加 BabelDOC 大额度、高级模型额度和漫画 / 图片翻译。
+
+- 💰 Pro 年度会员数码荔枝价 ¥579.60，用码 `PCALL` 后 **¥550.62**（2026-11-16 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
+- 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/immersive-translate-discount-guide.html)
 
 ---
 
