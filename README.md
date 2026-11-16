@@ -4,7 +4,7 @@
 >
 > 🎟 **优惠码 `PCOIC`**：Windows / Microsoft 365 专享 **9 折**，比 PCALL 更划算
 >
-> 最后更新：2026-11-14
+> 最后更新：2026-11-16
 
 在[数码荔枝](https://lizhi.shop/?cid=getxya4c&utm_medium=8r26xcug)买正版软件，结算时填写优惠码直接立减。
 
@@ -24,15 +24,15 @@
 
 ## 🔥 出单 Top 5
 
-> 数据来自数码荔枝推广后台导出表（2026-11-01 ~ 2026-11-09），每周更新。
+> 数据来自数码荔枝推广后台导出表（2026-11-01 ~ 2026-11-16），每周更新。
 
 | 排名 | 软件 | 销量 |
 | --- | --- | --- |
-| 1 | [Mole](#mole) | 16 单 |
-| 2 | [Typora](#typora) | 14 单 |
-| 3 | [PixPin](#pixpin) | 14 单 |
-| 4 | [Listary Pro](#listary-pro) | 8 单 |
-| 5 | [Microsoft 365 拼车](#microsoft-365) | 8 单 |
+| 1 | [Typora](#typora) | 30 单 |
+| 2 | [Mole](#mole) | 27 单 |
+| 3 | [PixPin](#pixpin) | 23 单 |
+| 4 | [Microsoft 365 拼车](#microsoft-365) | 11 单 |
+| 5 | [Listary Pro](#listary-pro) | 8 单 |
 
 ## ⚡ 速查表
 
@@ -62,14 +62,15 @@
 | [Navicat](#navicat) | 数据库管理（Premium 永久非商业） | ¥6353.6 | `PCALL` |
 | [Listary Pro](#listary-pro) | Windows 文件搜索启动 | ¥93.10 | `PCALL` |
 | [BandiView](#bandiview) | Windows 图像查看器（RAW / HDR） | ¥223.25 | `PCALL` |
+| [Cubox Pro](#cubox-pro) | 多平台知识管理（一年高级会员） | ¥93.10 | `PCALL` |
 
-*用码价为 2026-10-19 逐款核实，Listary Pro 为 2026-11-02、BandiView 为 2026-11-09、Gety 为 2026-11-11、Mole 与 Directory Opus 13 为 2026-11-14 核实（页面实时价为准），优惠码长期有效；Gety 不适用优惠码。*
+*用码价为 2026-10-19 逐款核实，Listary Pro 为 2026-11-02、BandiView 为 2026-11-09、Gety 为 2026-11-11、Mole 与 Directory Opus 13 为 2026-11-14、Cubox Pro 为 2026-11-16 核实（页面实时价为准），优惠码长期有效；Gety 不适用优惠码。*
 
 ## 目录
 
 ### ⚡ 效率工具
 
-[Gety](#gety) · [PixPin](#pixpin) · [Typora](#typora) · [Quicker](#quicker) · [Microsoft 365](#microsoft-365) · [Eagle](#eagle) · [Listary Pro](#listary-pro) · [BandiView](#bandiview)
+[Gety](#gety) · [PixPin](#pixpin) · [Typora](#typora) · [Quicker](#quicker) · [Microsoft 365](#microsoft-365) · [Eagle](#eagle) · [Listary Pro](#listary-pro) · [BandiView](#bandiview) · [Cubox Pro](#cubox-pro)
 
 ### 🖥️ 系统工具
 
@@ -325,6 +326,15 @@ Windows 上的专业图像查看器：RAW、HEIC、WebP、AVIF 这些新格式�
 - 💰 专业版单设备数码荔枝价 ¥235，用码 `PCALL` 后 **¥223.25**（2026-11-09 验证）
 - 🎟 优惠码 `PCALL`，全场 9.5 折
 - 📖 [完整版评测 + 购买激活教程](https://lizhi.pcoic.com/blog/bandiview-discount-guide.html)
+
+---
+
+### Cubox Pro
+
+多平台碎片信息收藏与阅读管理工具：浏览器扩展、分享菜单、微信转发随手剪藏文章和网页，自动解析正文做沉浸式阅读，高亮标注重点；智能列表按关键词自动归类，嵌套文件夹加标签辅助管理，全文深度搜索随时找回。免费版收藏上限 200 条，高级会员不限容量。
+
+- 💰 一年高级会员数码荔枝价 ¥98，用码 `PCALL` 后 **¥93.10**（2026-11-16 验证）
+- 🎟 优惠码 `PCALL`，全场 9.5 折
 
 ---
 
